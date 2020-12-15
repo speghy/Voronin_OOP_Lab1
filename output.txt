@@ -1,0 +1,36 @@
+voronin
+got mark: 3
+and was not deducted.
+have no stipendion.
+voronin2
+got mark: 5
+and was not deducted.
+have a stipendion.
+voronin3
+got mark: 4
+and was not deducted.
+have a stipendion.
+voronin4
+got mark: 2
+and deducted.
+have no stipendion.
+voronin5
+got mark: 3
+and was not deducted.
+have no stipendion.
+voronin6
+got mark: 2
+and deducted.
+have no stipendion.
+voronin7
+got mark: 4
+and was not deducted.
+have a stipendion.
+voronin8
+got mark: 4
+and was not deducted.
+have a stipendion.
+voronin9
+got mark: 4
+and was not deducted.
+have a stipendion.
